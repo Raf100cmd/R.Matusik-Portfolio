@@ -13,6 +13,10 @@
 * [TestRail](https://www.gurock.com/testrail/) - Test management tool
 * [MySQL](https://www.mysql.com/) - Relational database management system
 
+## Programming language
+
+* [Java](https://www.oracle.com/pl/java/)
+
 ## Tech skills
 
 * SQL
