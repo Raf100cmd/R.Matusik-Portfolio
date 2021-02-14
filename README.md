@@ -27,3 +27,7 @@
 * Reporting bugs
 * Finding uniqe CSS Selectors and xPaths
 * Creating diagrams and decision tables
+
+## Certificates
+
+* ISTQB - foundation level
