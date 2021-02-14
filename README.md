@@ -35,4 +35,4 @@
 
 ## Courses
 
-* 
+* Software Development Academy - [Tester Oprogramowania]()
