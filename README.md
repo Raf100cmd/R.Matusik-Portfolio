@@ -7,7 +7,7 @@
 * [Jira](https://jira.atlassian.com/) - Issue tracking and project management tool for developers
 * [Postman](https://www.postman.com/product/rest-client/) - Testing tool for REST API
 * [Selenium IDE](https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd) - Open source record and playback test automation for the web
-* [Selenium WebDriver](https://www.selenium.dev/projects/) - Tools drives a browser natively, as a real user would, either locally or on remote machines.
+* [Selenium WebDriver](https://www.selenium.dev/projects/) - Tool drives a browser natively, as a real user would, either locally or on remote machines.
 * GitHub
 * [Intellij IDEA](https://www.jetbrains.com/idea/) - Commercial integrated development environment
 * [TestRail](https://www.gurock.com/testrail/) - Test management tool
@@ -31,7 +31,8 @@
 ## Certificates
 
 * ISTQB - foundation level
-* [Certyfikat Tester Oprogramowania](https://app.diplomasafe.com/pl-PL/diploma/d4bbf07600067d3ba7835faa5b572b291a09dcd5c/tester-oprogramowania/linkedin_cert) - No 284/12/2020
+* [Certyfikat Tester Oprogramowania](https://app.diplomasafe.com/pl-PL/diploma/d4bbf07600067d3ba7835faa5b572b291a09dcd5c/tester-oprogramowania/linkedin_cert) - No. 284/12/2020
+* [Certyfikat Java 8 od podstaw dla każdego](https://www.udemy.com/certificate/UC-d923db89-17aa-478d-8a4b-c36d7b9d089b/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email) - No. UC-d923db89-17aa-478d-8a4b-c36d7b9d089b
 
 ## Courses
 
