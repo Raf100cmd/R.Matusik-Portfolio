@@ -31,3 +31,8 @@
 ## Certificates
 
 * ISTQB - foundation level
+* [Certyfikat Tester Oprogramowania](https://app.diplomasafe.com/pl-PL/diploma/d4bbf07600067d3ba7835faa5b572b291a09dcd5c/tester-oprogramowania/linkedin_cert) - No 284/12/2020
+
+## Courses
+
+* 
