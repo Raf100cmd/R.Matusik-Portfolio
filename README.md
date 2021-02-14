@@ -12,3 +12,14 @@
 * [Intellij IDEA](https://www.jetbrains.com/idea/) - Commercial integrated development environment
 * [TestRail](https://www.gurock.com/testrail/) - Test management tool
 * [MySQL](https://www.mysql.com/) - Relational database management system
+
+## Tech skills
+
+* SQL
+* DevTools
+* SCRUM
+* Software testing
+* Creating test cases
+* Reporting bugs
+* Finding uniqe CSS Selectors and xPaths
+* Creating diagrams and decision tables
