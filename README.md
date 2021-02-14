@@ -9,5 +9,6 @@
 * [Selenium IDE](https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd) - Open source record and playback test automation for the web
 * [Selenium WebDriver](https://www.selenium.dev/projects/) - Tools drives a browser natively, as a real user would, either locally or on remote machines.
 * GitHub
-* [Java](https://www.oracle.com/pl/java/) - Programming platform for developers to create projects, services and applications
+* [Intellij IDEA](https://www.jetbrains.com/idea/) - Commercial integrated development environment
 * [TestRail](https://www.gurock.com/testrail/) - Test management tool
+* [MySQL](https://www.mysql.com/) - Relational database management system
