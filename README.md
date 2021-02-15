@@ -89,4 +89,6 @@
 
 ## My exercises and examples
 
+## My projects
+
 ## Hobbies and free time
