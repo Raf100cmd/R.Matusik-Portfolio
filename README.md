@@ -2,6 +2,7 @@
 # Portfolio 
 
 ## About me
+
 ## Tools
 * **Project management tools**
   * [Jira](https://jira.atlassian.com/) - Issue tracking and project management tool for developers
@@ -23,7 +24,6 @@
   * Slack
   * RapidReporter
   * Snipping Tool
-
 
 ## Programming language
 
@@ -49,3 +49,14 @@
 ## Courses
 
 * Software Development Academy - [Tester Oprogramowania]()
+
+## Foreign Languages
+
+## Books and documentation
+* **Technical books**
+
+* **Language books**
+
+## Groups on Facebook
+
+## Recommended blogs and websites
