@@ -66,3 +66,5 @@
 ## Articles
 
 ## My exercises and examples
+
+## Hobbies and free time
