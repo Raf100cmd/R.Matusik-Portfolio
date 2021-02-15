@@ -48,7 +48,7 @@
 
 ## Courses
 
-* Software Development Academy - [Tester Oprogramowania]()
+* Software Development Academy - [Tester Oprogramowania](https://sdacademy.pl/kursy/kurs-tester-zdalny/)
 * Platform Udemy - [Kurs Java 8 od podstaw dla każdego](https://www.udemy.com/course/kurs-java-8-od-podstaw-dla-kazdego/learn/lecture/11027866#overview)
 * Platform Udemy - [Java od Podstaw do Eksperta - twórz własne aplikacje](https://www.udemy.com/course/java-od-podstaw-do-eksperta-tworz-wasne-aplikacje/learn/lecture/7051018#overview) - _w trakcie_
 
