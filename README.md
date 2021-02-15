@@ -73,6 +73,11 @@
 
 ## Recommended blogs and websites
 
+  * remigiuszbednarczyk.pl
+  * testerzy.pl
+  * kobietydokodu.pl
+  * w3schools.com
+  * testelka.pl
 ## Webinars
 
 ## Articles
