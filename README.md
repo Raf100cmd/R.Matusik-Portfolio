@@ -81,6 +81,7 @@
 ## Webinars
 
 ## Articles
+* [Article about creating portfolio in GitHub using my portfolio as example](https://remigiuszbednarczyk.pl/portfolio-testera)
 
 ## My exercises and examples
 
