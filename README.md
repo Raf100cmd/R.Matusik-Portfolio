@@ -58,9 +58,16 @@
 
 ## Books and documentation
 * **Technical books**
-  * ISTQB Certyfikowany Tester - Poziom Podstawowy 2018 - [Sylabus](file:///C:/Users/Rafaello/Downloads/ISTQB-SYLABUS-POZIOMU-PODSTAWOWEGO_2018-V.3.1%20(1).pdf)
+  * ISTQB Certyfikowany Tester - Poziom Podstawowy 2018 - Sylabus
+  * A.Roman, L.Stapp - Certyfikowany tester ISTQB. Poziom podstawowy
+  * W.Rychlicki - Programowanie w języku Java _(w trakcie)_
 
 * **Language books**
+  * Angielski nie gryzie poziom A1/A2
+  * Angielski nie gryzie poziom B1/B2 _(w trakcie)_
+  * B.Błaszczyk English 4 IT. Praktyczny kurs języka angielskiego dla specjalistów IT i nie tylko _(w trakcie)_
+  * Murphy _(w trakcie)_
+  
 
 ## Groups on Facebook
 
