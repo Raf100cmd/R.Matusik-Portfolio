@@ -58,6 +58,7 @@
 
 ## Books and documentation
 * **Technical books**
+  * ISTQB Certyfikowany Tester - Poziom Podstawowy 2018 - [Sylabus](file:///C:/Users/Rafaello/Downloads/ISTQB-SYLABUS-POZIOMU-PODSTAWOWEGO_2018-V.3.1%20(1).pdf)
 
 * **Language books**
 
