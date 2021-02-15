@@ -79,6 +79,10 @@
   * w3schools.com
   * testelka.pl
 ## Webinars
+* Agile i SCRUM - zwinne metodyki wytwarzania produktu
+* Podstawy GIT
+* Podstawy HTTP
+* CyberSecurity
 
 ## Articles
 * [Article about creating portfolio in GitHub using my portfolio as example](https://remigiuszbednarczyk.pl/portfolio-testera)
