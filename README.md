@@ -53,6 +53,8 @@
 * Platform Udemy - [Java od Podstaw do Eksperta - twórz własne aplikacje](https://www.udemy.com/course/java-od-podstaw-do-eksperta-tworz-wasne-aplikacje/learn/lecture/7051018#overview) - _w trakcie_
 
 ## Foreign Languages
+* **English** (poziom A2 w mowie; poziom B1 w piśmie)
+
 
 ## Books and documentation
 * **Technical books**
