@@ -89,7 +89,17 @@
 
 ## My exercises and examples
 * **Przypadki testowe i raporty o błędach na podstawie dokumentacji _(Testowanie Statyczne)_**
-  *  **[Specyfikacja aplikacji MrBuggy 3]()**
+  * **[Specyfikacja aplikacji MrBuggy 3]()**
+* **Przypadki testowe i raporty o błędach na podstawie aplikacji, stron internetowych, programów**
+  * **[Aplikacja Tescade.com]()**
+  * **[obliczakcyze.pl]()**
+* **Przykłady diagramów i tablic decyzyjnych**
+* **Przykładowe programy napisane w języku Java**
+  * **[Programy]()**
+  * **[Programy i testy jednostkowe]()**
+* **Przykładowe testy automatyczne aplikacji internetowych**
+  * **Przy użyciu Selenium WebDriver**
+      * **[https://opensource-demo.orangehrmlive.com/]()**
 
 ## My projects
 
