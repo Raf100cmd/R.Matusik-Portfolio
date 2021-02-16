@@ -88,6 +88,8 @@
 * [Article about creating portfolio in GitHub using my portfolio as example](https://remigiuszbednarczyk.pl/portfolio-testera)
 
 ## My exercises and examples
+* **Przypadki testowe i raporty o błędach na podstawie dokumentacji _(Testowanie Statyczne)_**
+  *  **[Specyfikacja aplikacji MrBuggy 3]()**
 
 ## My projects
 
