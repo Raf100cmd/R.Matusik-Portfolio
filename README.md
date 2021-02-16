@@ -90,6 +90,6 @@
 ## My exercises and examples
 
 ## My projects
-* **[KOT](https://github.com/Raf100cmd/KursGit)**
+
 
 ## Hobbies and free time
