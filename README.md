@@ -101,9 +101,9 @@
   * **Przy użyciu Selenium WebDriver**
       * **[https://opensource-demo.orangehrmlive.com/]()**
 * **Przykłady wykorzystania języka SQL**
-  * **[Zadania z wykorzystaniem Bazy danych _Osoby_]**
+  * **[Zadania z wykorzystaniem Bazy danych _Osoby_]()**
   * **[Zadania z wykorzystaniem Bazy Danych _Osoby 5000_]()**
-  * **[Zadania z wykorzystaniem Bazt danych _Państwa_]()**
+  * **[Zadania z wykorzystaniem Bazy danych _Państwa_]()**
 
 ## My projects
 
