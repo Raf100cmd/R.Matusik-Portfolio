@@ -89,7 +89,7 @@
 
 ## My exercises and examples
 * **Przypadki testowe i raporty o błędach na podstawie dokumentacji _(Testowanie Statyczne)_**
-  * **[Specyfikacja aplikacji MrBuggy 3]()**
+  * **[Specyfikacja aplikacji MrBuggy 3](https://github.com/Raf100cmd/Specyfikacja-aplikacji-MrBuggy-3)**
 * **Przypadki testowe i raporty o błędach na podstawie aplikacji, stron internetowych, programów**
   * **[Aplikacja Tescade.com]()**
   * **[obliczakcyze.pl]()**
