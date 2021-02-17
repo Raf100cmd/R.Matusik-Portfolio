@@ -65,8 +65,9 @@
 * **Language books**
   * Angielski nie gryzie poziom A1/A2
   * Angielski nie gryzie poziom B1/B2 _(w trakcie)_
-  * B.Błaszczyk English 4 IT. Praktyczny kurs języka angielskiego dla specjalistów IT i nie tylko _(w trakcie)_
-  * Murphy _(w trakcie)_
+  * B.Błaszczyk -  English 4 IT. Praktyczny kurs języka angielskiego dla specjalistów IT i nie tylko _(w trakcie)_
+  * R.Murphy -  English Grammar in use _(w trakcie)_
+  * A.Borowska -  WIELKA GRAMATYKA języka angielskiego _(w trakcie)_
   
 
 ## Groups on Facebook
