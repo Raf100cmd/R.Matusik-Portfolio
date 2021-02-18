@@ -93,7 +93,7 @@
   * **[Specyfikacja aplikacji MrBuggy 3](https://github.com/Raf100cmd/Specyfikacja-aplikacji-MrBuggy-3)**
 * **Przypadki testowe i raporty o błędach na podstawie aplikacji, stron internetowych, programów**
   * **[Aplikacja Taskade 3.0](https://github.com/Raf100cmd/Aplikacja-Taskade-3.0)**
-  * **[Strona obliczakcyze.pl]()**
+  * **[Aplikacja internetowa obliczakcyze.pl]()**
 * **Przykłady diagramów i tablic decyzyjnych**
 * **Przykładowe programy napisane w języku Java**
   * **[Programy]()**
