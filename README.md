@@ -92,7 +92,7 @@
 * **Przypadki testowe i raporty o błędach na podstawie dokumentacji _(Testowanie Statyczne)_**
   * **[Specyfikacja aplikacji MrBuggy 3](https://github.com/Raf100cmd/Specyfikacja-aplikacji-MrBuggy-3)**
 * **Przypadki testowe i raporty o błędach na podstawie aplikacji, stron internetowych, programów**
-  * **[Aplikacja Tascade 3.0](https://github.com/Raf100cmd/Aplikacja-Tascade-3.0)**
+  * **[Aplikacja Taskade 3.0](https://github.com/Raf100cmd/Aplikacja-Taskade-3.0)**
   * **[obliczakcyze.pl]()**
 * **Przykłady diagramów i tablic decyzyjnych**
 * **Przykładowe programy napisane w języku Java**
