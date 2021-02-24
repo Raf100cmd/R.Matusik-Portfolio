@@ -97,7 +97,7 @@
 * **Przykłady diagramów i tablic decyzyjnych**
 * **Przykładowe programy napisane w języku Java**
   * **[Programy](https://github.com/Raf100cmd/Programy)**
-  * **[Programy i testy jednostkowe]()**
+  * **[Programy i testy jednostkowe](https://github.com/Raf100cmd/Programy_i_testy_jednostkowe)**
 * **Przykładowe testy automatyczne aplikacji internetowych**
   * **Przy użyciu Selenium WebDriver**
       * **[https://opensource-demo.orangehrmlive.com/]()**
