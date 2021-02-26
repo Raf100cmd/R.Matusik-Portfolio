@@ -100,7 +100,7 @@
   * **[Programy i testy jednostkowe](https://github.com/Raf100cmd/Programy_i_testy_jednostkowe)**
 * **Przykładowe testy automatyczne aplikacji internetowych**
   * **Przy użyciu Selenium WebDriver**
-      * **[https://opensource-demo.orangehrmlive.com/]()**
+      * **[https://opensource-demo.orangehrmlive.com/](https://github.com/Raf100cmd/Opensource/blob/main/README.md)**
 * **Przykłady wykorzystania języka SQL**
   * **[Zadania z wykorzystaniem Bazy danych _Osoby_]()**
   * **[Zadania z wykorzystaniem Bazy Danych _Osoby 5000_]()**
