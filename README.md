@@ -95,6 +95,7 @@
   * **[Aplikacja Taskade 3.0](https://github.com/Raf100cmd/Aplikacja-Taskade-3.0)**
   * **[Aplikacja internetowa obliczakcyze.pl](https://github.com/Raf100cmd/obliczakcyze.pl)**
 * **Przykłady diagramów i tablic decyzyjnych**
+  * **[Tablice decyzyjne dla drogowej sygnalizacji świetlnej](https://drive.google.com/file/d/1ZtI5UUItHjoTU_a4aBogwOoeB4pEzpzP/view?usp=sharing)**
 * **Przykładowe programy napisane w języku Java**
   * **[Programy](https://github.com/Raf100cmd/Programy)**
   * **[Programy i testy jednostkowe](https://github.com/Raf100cmd/Programy_i_testy_jednostkowe)**
