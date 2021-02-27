@@ -104,7 +104,7 @@
       * **[https://opensource-demo.orangehrmlive.com/](https://github.com/Raf100cmd/Opensource/blob/main/README.md)**
       * **[https://www.bbc.com/](https://github.com/Raf100cmd/BBC)**
 * **Przykłady wykorzystania języka SQL**
-  * **[Zadania z wykorzystaniem Bazy danych _Osoby_]()**
+  * **[Zadania z wykorzystaniem Bazy danych _Osoby_](https://drive.google.com/file/d/1RVi5U3BP27RphbOZOWCINAHTwMqlZGgE/view?usp=sharing)**
   * **[Zadania z wykorzystaniem Bazy Danych _Osoby 5000_]()**
   * **[Zadania z wykorzystaniem Bazy danych _Państwa_]()**
 
