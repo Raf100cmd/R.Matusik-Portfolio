@@ -106,7 +106,7 @@
 * **Przykłady wykorzystania języka SQL**
   * **[Zadania z wykorzystaniem Bazy danych _Osoby_](https://github.com/Raf100cmd/SQL_Baza_Danych_Osoby)**
   * **[Zadania z wykorzystaniem Bazy Danych _Osoby 5000_](https://github.com/Raf100cmd/SQL_Baza_Danych_Osoby)**
-  * **[Zadania z wykorzystaniem Bazy danych _Państwa_]()**
+  * **[Zadania z wykorzystaniem Bazy danych _Państwa_](https://github.com/Raf100cmd/SQL_Baza_Danych_Pa-stwa)**
 
 ## My projects
 
