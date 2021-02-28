@@ -3,9 +3,8 @@
 
 ## About me
 
-Nazywam się Rafał Matusik. Mam tytuł magistra inżyniera na kierunku Górnictwo i Geologia, w specjalności Geoinżynieria. Ponadto ukończyłem studia podyplomowe w zakresie Bezpieczeństwa i Higieny Pracy oraz Kurs Pedagogiczny przygotujący do szkolenia dorosłych. Powyższe wykształcenie uzyskałem w Akademii Górniczo-Hutniczej im. S. Staszica w Krakowie. Bezpośrednio po ukończeniu szkoły wyższej podjąłem prace w branży wydobywczej, w firmie Kompania Węglowa (później Polska Grupa Górnicza) w Zakładzie Górniczych Robót Inwestycyjnych. Polityką owego zakładu jest wykonywanie robót przygotowawczych – mających na celu zapewnienie fukcjonowania zakładów górniczych. Pracując ww. zakładzie miałem okazję świadczyć swoje usługi w czterech zakładach górniczych, jednocześnie przechodząć od szczebla stażysty, po osobę niższego dozoru, a kończac na kwalifikacjach osoby dozoru średniego, co zostało udokumentowane wystawieniem świadectw stwierdzenia kwalifikacji przez OUG w Rybniku.
-
-Ostatnio zacząłem interesować się testowaniem oprogramowania. Jako człowiek skrupulatny i drobiazgowy, a jednocześnie otwarty na nowe wyzwania i nieustannie poszerzający swoją wiedzę ukończyłem w grudniu kurs – Tester Oprogramowia w Software Development Academy. Natomiast w lutym uzyskałem tytuł Certyfikowanego Testera Poziom Podstawowy sygnowanego przez ISTQB. Moim celem jest stałe rozwijanie się w sferze wiedzy testowej oraz umiejętnościach technicznych. Na tej stronie chciałbym się podzielić dotychczasowym doświadczeniem, które zdobyłem podczas osobistych studiów i badań.  
+Nazywam się Rafał Matusik. Jestem absolwentem Akademii Górniczo-Hutniczej im. S. Staszica w Krakowie. Tytuł magistra inżyniera uzyskałem, kończąc studia na kierunku Górnictwo i Geologia, specjalność Geoinżynieria. Wykształcenie uzupełniałem o kursy i szkolenia, w tym o studia podyplomowe w zakresie Bezpieczeństwa i Higieny Pracy oraz Kurs Pedagogiczny przygotowujący do szkolenia dorosłych. Bezpośrednio po ukończeniu szkoły wyższej podjąłem pracę w branży wydobywczej, w firmie Kompania Węglowa (później Polska Grupa Górnicza) w Zakładzie Górniczych Robót Inwestycyjnych, którego polityką jest wykonywanie robót przygotowawczych. Doświadczenie zdobywałem w czterech zakładach górniczych, uzyskując niezbędne kwalifikacje i osiągając kolejne  szczeble awansu zawodowego.
+Ostatnio zacząłem interesować się testowaniem oprogramowania. Jako człowiek skrupulatny i drobiazgowy, a jednocześnie otwarty na nowe wyzwania i nieustannie poszerzający swoją wiedzę, ukończyłem w kurs – Tester Oprogramowania w Software Development Academy (grudzień 2020 r.) i uzyskałem tytuł Certyfikowanego Testera Poziom Podstawowy sygnowanego przez ISTQB (luty 2021). Moim celem jest stałe rozwijanie się w sferze wiedzy testowej oraz umiejętnościach technicznych. Na tej stronie chciałbym się podzielić dotychczasowym doświadczeniem, które zdobyłem podczas osobistych studiów i badań.
 
 ## Tools
 * **Project management tools**
@@ -73,9 +72,6 @@ Ostatnio zacząłem interesować się testowaniem oprogramowania. Jako człowiek
   * R.Murphy -  English Grammar in use _(w trakcie)_
   * A.Borowska -  WIELKA GRAMATYKA języka angielskiego _(w trakcie)_
   
-
-## Groups on Facebook
-
 ## Recommended blogs and websites
 
   * remigiuszbednarczyk.pl
@@ -88,9 +84,6 @@ Ostatnio zacząłem interesować się testowaniem oprogramowania. Jako człowiek
 * Podstawy GIT
 * Podstawy HTTP
 * CyberSecurity
-
-## Articles
-* [Article about creating portfolio in GitHub using my portfolio as example](https://remigiuszbednarczyk.pl/portfolio-testera)
 
 ## My exercises and examples
 * **Przypadki testowe i raporty o błędach na podstawie dokumentacji _(Testowanie Statyczne)_**
@@ -112,7 +105,6 @@ Ostatnio zacząłem interesować się testowaniem oprogramowania. Jako człowiek
   * **[Zadania z wykorzystaniem Bazy Danych _Osoby 5000_](https://github.com/Raf100cmd/SQL_Baza_Danych_Osoby)**
   * **[Zadania z wykorzystaniem Bazy danych _Państwa_](https://github.com/Raf100cmd/SQL_Baza_Danych_Pa-stwa)**
 
-## My projects
 
 
-## Hobbies and free time
+
