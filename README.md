@@ -4,6 +4,7 @@
 ## About me
 
 Nazywam się Rafał Matusik. Jestem absolwentem Akademii Górniczo-Hutniczej im. S. Staszica w Krakowie. Tytuł magistra inżyniera uzyskałem, kończąc studia na kierunku Górnictwo i Geologia, specjalność Geoinżynieria. Wykształcenie uzupełniałem o kursy i szkolenia, w tym o studia podyplomowe w zakresie Bezpieczeństwa i Higieny Pracy oraz Kurs Pedagogiczny przygotowujący do szkolenia dorosłych. Bezpośrednio po ukończeniu szkoły wyższej podjąłem pracę w branży wydobywczej, w firmie Kompania Węglowa (później Polska Grupa Górnicza) w Zakładzie Górniczych Robót Inwestycyjnych, którego polityką jest wykonywanie robót przygotowawczych. Doświadczenie zdobywałem w czterech zakładach górniczych, uzyskując niezbędne kwalifikacje i osiągając kolejne  szczeble awansu zawodowego.
+
 Ostatnio zacząłem interesować się testowaniem oprogramowania. Jako człowiek skrupulatny i drobiazgowy, a jednocześnie otwarty na nowe wyzwania i nieustannie poszerzający swoją wiedzę, ukończyłem w kurs – Tester Oprogramowania w Software Development Academy (grudzień 2020 r.) i uzyskałem tytuł Certyfikowanego Testera Poziom Podstawowy sygnowanego przez ISTQB (luty 2021). Moim celem jest stałe rozwijanie się w sferze wiedzy testowej oraz umiejętnościach technicznych. Na tej stronie chciałbym się podzielić dotychczasowym doświadczeniem, które zdobyłem podczas osobistych studiów i badań.
 
 ## Tools
