@@ -3,6 +3,10 @@
 
 ## About me
 
+Nazywam się Rafał Matusik. Mam tytuł magistra inżyniera na kierunku Górnictwo i Geologia, w specjalności Geoinżynieria. Ponadto ukończyłem studia podyplomowe w zakresie Bezpieczeństwa i Higieny Pracy oraz Kurs Pedagogiczny przygotujący do szkolenia dorosłych. Powyższe wykształcenie uzyskałem w Akademii Górniczo-Hutniczej im. S. Staszica w Krakowie. Bezpośrednio po ukończeniu szkoły wyższej podjąłem prace w branży wydobywczej, w firmie Kompania Węglowa (później Polska Grupa Górnicza) w Zakładzie Górniczych Robót Inwestycyjnych. Polityką owego zakładu jest wykonywanie robót przygotowawczych – mających na celu zapewnienie fukcjonowania zakładów górniczych. Pracując ww. zakładzie miałem okazję świadczyć swoje usługi w czterech zakładach górniczych, jednocześnie przechodząć od szczebla stażysty, po osobę niższego dozoru, a kończac na kwalifikacjach osoby dozoru średniego, co zostało udokumentowane wystawieniem świadectw stwierdzenia kwalifikacji przez OUG w Rybniku.
+
+Ostatnio zacząłem interesować się testowaniem oprogramowania. Jako człowiek skrupulatny i drobiazgowy, a jednocześnie otwarty na nowe wyzwania i nieustannie poszerzający swoją wiedzę ukończyłem w grudniu kurs – Tester Oprogramowia w Software Development Academy. Natomiast w lutym uzyskałem tytuł Certyfikowanego Testera Poziom Podstawowy sygnowanego przez ISTQB. Moim celem jest stałe rozwijanie się w sferze wiedzy testowej oraz umiejętnościach technicznych. Na tej stronie chciałbym się podzielić dotychczasowym doświadczeniem, które zdobyłem podczas osobistych studiów i badań.  
+
 ## Tools
 * **Project management tools**
   * [Jira](https://jira.atlassian.com/) - Issue tracking and project management tool for developers
