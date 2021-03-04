@@ -22,6 +22,7 @@ Ostatnio zacząłem interesować się testowaniem oprogramowania. Jako człowiek
 * **Database tools**
   * [MySQL](https://www.mysql.com/) - Relational database management system
 * **Other tools**
+  * [draw.io](https://app.diagrams.net/) - Flowchart maker and online diagram software
   * Word
   * Exel
   * Notepad++, Notatnik
