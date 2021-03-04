@@ -94,6 +94,7 @@ Ostatnio zacząłem interesować się testowaniem oprogramowania. Jako człowiek
   * **[Aplikacja internetowa obliczakcyze.pl](https://github.com/Raf100cmd/obliczakcyze.pl)**
 * **Przykłady diagramów i tablic decyzyjnych**
   * **[Tablice decyzyjne dla drogowej sygnalizacji świetlnej](https://drive.google.com/file/d/1ZtI5UUItHjoTU_a4aBogwOoeB4pEzpzP/view?usp=sharing)**
+  * **[Diagram i tablice stanów dla odmierzania czasu - stoper](https://drive.google.com/file/d/1DIkv2MRJsEUUpelk-giAnzME0w4C-fST/view?usp=sharing)**
 * **Przykładowe programy napisane w języku Java**
   * **[Programy](https://github.com/Raf100cmd/Programy)**
   * **[Programy i testy jednostkowe](https://github.com/Raf100cmd/Programy_i_testy_jednostkowe)**
