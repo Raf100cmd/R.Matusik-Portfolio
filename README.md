@@ -30,6 +30,19 @@ Ostatnio zacząłem interesować się testowaniem oprogramowania. Jako człowiek
   * RapidReporter
   * Snipping Tool
 
+## Certificates
+
+* [ISTQB  foundation level](https://drive.google.com/file/d/1jKwOiwKF-bFTWBtoLukdbJIX4gXarJbb/view?usp=sharing) - No. 15747/CTFL/2021 _[Rejestr Certyfikatów SCR](http://scr.istqb.org/)_
+* [Certyfikat Tester Oprogramowania](https://app.diplomasafe.com/pl-PL/diploma/d4bbf07600067d3ba7835faa5b572b291a09dcd5c/tester-oprogramowania/linkedin_cert) - No. 284/12/2020
+* [Certyfikat Java 8 od podstaw dla każdego](https://www.udemy.com/certificate/UC-d923db89-17aa-478d-8a4b-c36d7b9d089b/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email) - No. UC-d923db89-17aa-478d-8a4b-c36d7b9d089b
+
+## Courses
+
+* Software Development Academy - [Tester Oprogramowania](https://sdacademy.pl/kursy/kurs-tester-zdalny/)
+* Platform Udemy - [Kurs Java 8 od podstaw dla każdego](https://www.udemy.com/course/kurs-java-8-od-podstaw-dla-kazdego/learn/lecture/11027866#overview)
+* Platform Udemy - [Java od Podstaw do Eksperta - twórz własne aplikacje](https://www.udemy.com/course/java-od-podstaw-do-eksperta-tworz-wasne-aplikacje/learn/lecture/7051018#overview) - _w trakcie_
+
+
 ## Programming language
 
 * [Java](https://www.oracle.com/pl/java/)
