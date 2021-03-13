@@ -96,8 +96,10 @@ Ostatnio zacząłem interesować się testowaniem oprogramowania. Jako człowiek
   * **[Aplikacja Taskade 3.0](https://github.com/Raf100cmd/Aplikacja-Taskade-3.0)**
   * **[Aplikacja internetowa obliczakcyze.pl](https://github.com/Raf100cmd/obliczakcyze.pl)**
 * **Przykłady diagramów i tablic decyzyjnych**
+  * **[Tablica decyzyjna dla zakupu biletu autobusowego](https://drive.google.com/file/d/1dwIg3jF0bLLdv5CsMNQheQiwpdyBMAtl/view?usp=sharing)**
   * **[Tablice decyzyjne dla drogowej sygnalizacji świetlnej](https://drive.google.com/file/d/1ZtI5UUItHjoTU_a4aBogwOoeB4pEzpzP/view?usp=sharing)**
   * **[Diagram i tablice stanów dla odmierzania czasu - stoper](https://drive.google.com/file/d/1DIkv2MRJsEUUpelk-giAnzME0w4C-fST/view?usp=sharing)**
+  * **[Diagram i tablica stanów zakupu biletu w biletomacie](https://drive.google.com/file/d/1Q_YOt5ZswS1K0UaRlQh34pm8Fe0vd94w/view?usp=sharing)**
 * **Przykładowe programy napisane w języku Java**
   * **[Programy](https://github.com/Raf100cmd/Programy)**
   * **[Programy i testy jednostkowe](https://github.com/Raf100cmd/Programy_i_testy_jednostkowe)**
