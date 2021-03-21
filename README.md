@@ -60,21 +60,21 @@ Ostatnio zacząłem interesować się testowaniem oprogramowania. Jako człowiek
 
 
 ## Foreign Languages
-* **English** (poziom A2 w mowie; poziom B1 w piśmie)
+* **English** (speaking level A2; writing level B1)
 
 
 ## Books and documentation
 * **Technical books**
   * ISTQB Certyfikowany Tester - Poziom Podstawowy 2018 - Sylabus
   * A.Roman, L.Stapp - Certyfikowany tester ISTQB. Poziom podstawowy
-  * W.Rychlicki - Programowanie w języku Java _(w trakcie)_
+  * W.Rychlicki - Programowanie w języku Java _(in the course of learning)_
 
 * **Language books**
   * Angielski nie gryzie poziom A1/A2
-  * Angielski nie gryzie poziom B1/B2 _(w trakcie)_
-  * B.Błaszczyk -  English 4 IT. Praktyczny kurs języka angielskiego dla specjalistów IT i nie tylko _(w trakcie)_
-  * R.Murphy -  English Grammar in use _(w trakcie)_
-  * A.Borowska -  WIELKA GRAMATYKA języka angielskiego _(w trakcie)_
+  * Angielski nie gryzie poziom B1/B2 _(in the course of learning)_
+  * B.Błaszczyk -  English 4 IT. Praktyczny kurs języka angielskiego dla specjalistów IT i nie tylko _(in the course of learning)_
+  * R.Murphy -  English Grammar in use _(in the course of learning)_
+  * A.Borowska -  WIELKA GRAMATYKA języka angielskiego _(in the course of learning)_
   
 ## Recommended blogs and websites
 
