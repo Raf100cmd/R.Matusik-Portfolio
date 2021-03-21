@@ -29,6 +29,7 @@ Ostatnio zacząłem interesować się testowaniem oprogramowania. Jako człowiek
   * Slack
   * RapidReporter
   * Snipping Tool
+  * Movavi Screen Recorder 21
 
 ## Certificates
 
