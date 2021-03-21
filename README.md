@@ -95,22 +95,22 @@ Ostatnio zacząłem interesować się testowaniem oprogramowania. Jako człowiek
 * **Przypadki testowe i raporty o błędach na podstawie aplikacji, stron internetowych, programów (Test cases and bug reports based on applications, websites, programs)**
   * **[Aplikacja Taskade 3.0 (Taskade 3.0 - application)](https://github.com/Raf100cmd/Aplikacja-Taskade-3.0)**
   * **[Aplikacja internetowa obliczakcyze.pl (www.obliczakcyze.pl - application)](https://github.com/Raf100cmd/obliczakcyze.pl)**
-* **Przykłady diagramów i tablic decyzyjnych**
-  * **[Tablica decyzyjna dla zakupu biletu autobusowego](https://drive.google.com/file/d/1dwIg3jF0bLLdv5CsMNQheQiwpdyBMAtl/view?usp=sharing)**
-  * **[Tablice decyzyjne dla drogowej sygnalizacji świetlnej](https://drive.google.com/file/d/1ZtI5UUItHjoTU_a4aBogwOoeB4pEzpzP/view?usp=sharing)**
-  * **[Diagram i tablice stanów dla odmierzania czasu - stoper](https://drive.google.com/file/d/1DIkv2MRJsEUUpelk-giAnzME0w4C-fST/view?usp=sharing)**
-  * **[Diagram i tablica stanów zakupu biletu w biletomacie](https://drive.google.com/file/d/1Q_YOt5ZswS1K0UaRlQh34pm8Fe0vd94w/view?usp=sharing)**
-* **Przykładowe programy napisane w języku Java**
-  * **[Programy](https://github.com/Raf100cmd/Programy)**
-  * **[Programy i testy jednostkowe](https://github.com/Raf100cmd/Programy_i_testy_jednostkowe)**
-* **Przykładowe testy automatyczne aplikacji internetowych**
-  * **Przy użyciu Selenium WebDriver**
+* **Przykłady diagramów i tablic decyzyjnych (Examples of diagrams and decision tables)**
+  * **[Tablica decyzyjna dla zakupu biletu autobusowego (Decision table for purchasing a bus ticket)](https://drive.google.com/file/d/1dwIg3jF0bLLdv5CsMNQheQiwpdyBMAtl/view?usp=sharing)**
+  * **[Tablice decyzyjne dla drogowej sygnalizacji świetlnej (Decision boards for traffic lights)](https://drive.google.com/file/d/1ZtI5UUItHjoTU_a4aBogwOoeB4pEzpzP/view?usp=sharing)**
+  * **[Diagram i tablice stanów dla odmierzania czasu - stoper (Diagram and state tables for timing - stopwatch)](https://drive.google.com/file/d/1DIkv2MRJsEUUpelk-giAnzME0w4C-fST/view?usp=sharing)**
+  * **[Diagram i tablica stanów zakupu biletu w biletomacie (Diagram and table of ticket purchase statuses in the ticket machine)](https://drive.google.com/file/d/1Q_YOt5ZswS1K0UaRlQh34pm8Fe0vd94w/view?usp=sharing)**
+* **Przykładowe programy napisane w języku Java (Examples programs written in Java)**
+  * **[Programy (Programs)](https://github.com/Raf100cmd/Programy)**
+  * **[Programy i testy jednostkowe (Programs and unit tests)](https://github.com/Raf100cmd/Programy_i_testy_jednostkowe)**
+* **Przykładowe testy automatyczne aplikacji internetowych (Examples of automatic tests of web applications)**
+  * **Przy użyciu Selenium WebDriver (Using Selenium WebDriver )**
       * **[https://opensource-demo.orangehrmlive.com/](https://github.com/Raf100cmd/Opensource/blob/main/README.md)**
       * **[https://www.bbc.com/](https://github.com/Raf100cmd/BBC)**
-* **Przykłady wykorzystania języka SQL**
-  * **[Zadania z wykorzystaniem Bazy danych _Osoby_](https://github.com/Raf100cmd/SQL_Baza_Danych_Osoby)**
-  * **[Zadania z wykorzystaniem Bazy Danych _Osoby 5000_](https://github.com/Raf100cmd/SQL_Baza_Danych_Osoby)**
-  * **[Zadania z wykorzystaniem Bazy danych _Państwa_](https://github.com/Raf100cmd/SQL_Baza_Danych_Pa-stwa)**
+* **Przykłady wykorzystania języka SQL (Examples of using the SQL language)**
+  * **[Zadania z wykorzystaniem Bazy danych _Osoby (Tasks with the use of the Database 'Osoby')_](https://github.com/Raf100cmd/SQL_Baza_Danych_Osoby)**
+  * **[Zadania z wykorzystaniem Bazy Danych _Osoby 5000_(Tasks with the use of the Database 'Osoby 5000')](https://github.com/Raf100cmd/SQL_Baza_Danych_Osoby)**
+  * **[Zadania z wykorzystaniem Bazy danych _Państwa_(Tasks with the use of the Database 'Państwa')](https://github.com/Raf100cmd/SQL_Baza_Danych_Pa-stwa)**
 
 
 
