@@ -91,10 +91,10 @@ Ostatnio zacząłem interesować się testowaniem oprogramowania. Jako człowiek
 
 ## My exercises and examples
 * **Przypadki testowe i raporty o błędach na podstawie dokumentacji _(Testowanie Statyczne)_ (Test cases and bug reports based on documentation (Static Testing))**
-  * **[Specyfikacja aplikacji MrBuggy 3](https://github.com/Raf100cmd/Specyfikacja-aplikacji-MrBuggy-3)**
+  * **[Specyfikacja aplikacji MrBuggy 3 (MrBuggy 3 - application)](https://github.com/Raf100cmd/Specyfikacja-aplikacji-MrBuggy-3)**
 * **Przypadki testowe i raporty o błędach na podstawie aplikacji, stron internetowych, programów**
-  * **[Aplikacja Taskade 3.0](https://github.com/Raf100cmd/Aplikacja-Taskade-3.0)**
-  * **[Aplikacja internetowa obliczakcyze.pl](https://github.com/Raf100cmd/obliczakcyze.pl)**
+  * **[Aplikacja Taskade 3.0 (Taskade 3.0 - application)](https://github.com/Raf100cmd/Aplikacja-Taskade-3.0)**
+  * **[Aplikacja internetowa obliczakcyze.pl (www.obliczakcyze.pl - application)](https://github.com/Raf100cmd/obliczakcyze.pl)**
 * **Przykłady diagramów i tablic decyzyjnych**
   * **[Tablica decyzyjna dla zakupu biletu autobusowego](https://drive.google.com/file/d/1dwIg3jF0bLLdv5CsMNQheQiwpdyBMAtl/view?usp=sharing)**
   * **[Tablice decyzyjne dla drogowej sygnalizacji świetlnej](https://drive.google.com/file/d/1ZtI5UUItHjoTU_a4aBogwOoeB4pEzpzP/view?usp=sharing)**
