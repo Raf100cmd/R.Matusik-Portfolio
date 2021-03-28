@@ -27,7 +27,7 @@ Now I am focused on software testing – it has become my point of interest and 
   * [draw.io](https://app.diagrams.net/) - Flowchart maker and online diagram software
   * Word
   * Exel
-  * Notepad++, Notatnik
+  * Notepad++
   * Slack
   * RapidReporter
   * Snipping Tool
@@ -63,7 +63,7 @@ Now I am focused on software testing – it has become my point of interest and 
 
 
 ## Foreign Languages
-* **English** (speaking level A2; writing level B1)
+* **English** (speaken A2; written B1)
 
 
 ## Books and documentation
