@@ -3,9 +3,11 @@
 
 ## About me
 
-Nazywam się Rafał Matusik. Jestem absolwentem Akademii Górniczo-Hutniczej im. S. Staszica w Krakowie. Tytuł magistra inżyniera uzyskałem, kończąc studia na kierunku Górnictwo i Geologia, specjalność Geoinżynieria. Wykształcenie uzupełniałem o kursy i szkolenia, w tym o studia podyplomowe w zakresie Bezpieczeństwa i Higieny Pracy oraz Kurs Pedagogiczny przygotowujący do szkolenia dorosłych. Bezpośrednio po ukończeniu szkoły wyższej podjąłem pracę w branży wydobywczej, w firmie Kompania Węglowa (później Polska Grupa Górnicza) w Zakładzie Górniczych Robót Inwestycyjnych, którego polityką jest wykonywanie robót przygotowawczych. Doświadczenie zdobywałem w czterech zakładach górniczych, uzyskując niezbędne kwalifikacje i osiągając kolejne  szczeble awansu zawodowego.
+My name is Rafał Matusik. I am a software tester candidate with ISTQB certificate, solid technical education and relevant industrial experience. Recently I have directed my attention to modern technologies seeing them as a perfect way of self-development.
 
-Ostatnio zacząłem interesować się testowaniem oprogramowania. Jako człowiek skrupulatny i drobiazgowy, a jednocześnie otwarty na nowe wyzwania i nieustannie poszerzający swoją wiedzę, ukończyłem kurs – Tester Oprogramowania w Software Development Academy (grudzień 2020 r.) i uzyskałem tytuł Certyfikowanego Testera Poziom Podstawowy sygnowanego przez ISTQB (luty 2021). Moim celem jest stałe rozwijanie się w sferze wiedzy testowej oraz umiejętnościach technicznych. Na tej stronie chciałbym się podzielić dotychczasowym doświadczeniem, które zdobyłem podczas osobistych studiów i badań.
+In 2013, I graduated from the AGH University of Science and Technology in Cracow, Poland (M.Sc. in Mining and Geology, specializing in Geoengineering). I completed my education with courses (e.g. Occupational Safety & Health and adult training). Immediately after graduation, I started working in the mining industry. I have gained the necessary qualifications and experience in four different mining plants (as the policy of the company I work for is to carry out preparatory works).
+
+Now I am focused on software testing – it has become my point of interest and hobby. I completed the course - Software Tester at the Software Development Academy (December 2020) and obtained the title Certified Tester Foundation Level signed by ISTQB (February 2021). I am accurate, meticulous and at the same time open to new challenges as well as constantly expanding my knowledge. My goal is to improve my technical skills and to develop in the field of software testing. On this page, I would like to present the experience I have gained through my personal studies and research so far.
 
 ## Tools
 * **Project management tools**
