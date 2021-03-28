@@ -78,8 +78,8 @@ Now I am focused on software testing – it has become my point of interest and 
 * CyberSecurity
 
 ## My exercises and examples
-* **Przypadki testowe i raporty o błędach na podstawie dokumentacji _(Testowanie Statyczne)_ (Test cases and bug reports based on documentation (Static Testing))**
-  * **[Specyfikacja aplikacji MrBuggy 3 (MrBuggy 3 - application)](https://github.com/Raf100cmd/Specyfikacja-aplikacji-MrBuggy-3)**
+* **Test cases and bug reports based on documentation _(Static Testing)_**
+  * **[MrBuggy 3 - app specyfication](https://github.com/Raf100cmd/Specyfikacja-aplikacji-MrBuggy-3)**
 * **Przypadki testowe i raporty o błędach na podstawie aplikacji, stron internetowych, programów (Test cases and bug reports based on applications, websites, programs)**
   * **[Aplikacja Taskade 3.0 (Taskade 3.0 - application)](https://github.com/Raf100cmd/Aplikacja-Taskade-3.0)**
   * **[Aplikacja internetowa obliczakcyze.pl (www.obliczakcyze.pl - application)](https://github.com/Raf100cmd/obliczakcyze.pl)**
