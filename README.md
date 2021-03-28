@@ -88,9 +88,9 @@ Now I am focused on software testing – it has become my point of interest and 
   * **[Decision tables for traffic lights](https://drive.google.com/file/d/1ZtI5UUItHjoTU_a4aBogwOoeB4pEzpzP/view?usp=sharing)**
   * **[Diagram and state tables for timing - stopwatch](https://drive.google.com/file/d/1DIkv2MRJsEUUpelk-giAnzME0w4C-fST/view?usp=sharing)**
   * **[Diagram and table for purchasing a bus ticket in a ticket machine](https://drive.google.com/file/d/1Q_YOt5ZswS1K0UaRlQh34pm8Fe0vd94w/view?usp=sharing)**
-* **Przykładowe programy napisane w języku Java (Examples programs written in Java)**
-  * **[Programy (Programs)](https://github.com/Raf100cmd/Programy)**
-  * **[Programy i testy jednostkowe (Programs and unit tests)](https://github.com/Raf100cmd/Programy_i_testy_jednostkowe)**
+* **Examples programs written in Java**
+  * **[Programs](https://github.com/Raf100cmd/Programy)**
+  * **[Programs and unit testing](https://github.com/Raf100cmd/Programy_i_testy_jednostkowe)**
 * **Przykładowe testy automatyczne aplikacji internetowych (Examples of automatic tests of web applications)**
   * **Przy użyciu Selenium WebDriver (Using Selenium WebDriver )**
       * **[https://opensource-demo.orangehrmlive.com/](https://github.com/Raf100cmd/Opensource/blob/main/README.md)**
