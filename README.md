@@ -91,8 +91,8 @@ Now I am focused on software testing – it has become my point of interest and 
 * **Examples programs written in Java**
   * **[Programs](https://github.com/Raf100cmd/Programy)**
   * **[Programs and unit testing](https://github.com/Raf100cmd/Programy_i_testy_jednostkowe)**
-* **Przykładowe testy automatyczne aplikacji internetowych (Examples of automatic tests of web applications)**
-  * **Przy użyciu Selenium WebDriver (Using Selenium WebDriver )**
+* **Examples of automated testing of web applications**
+  * **Using Selenium WebDriver**
       * **[https://opensource-demo.orangehrmlive.com/](https://github.com/Raf100cmd/Opensource/blob/main/README.md)**
       * **[https://www.bbc.com/](https://github.com/Raf100cmd/BBC)**
 * **Przykłady wykorzystania języka SQL (Examples of using the SQL language)**
