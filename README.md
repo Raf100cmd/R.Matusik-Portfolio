@@ -85,7 +85,7 @@ Now I am focused on software testing – it has become my point of interest and 
   * **[www.obliczakcyze.pl - website](https://github.com/Raf100cmd/obliczakcyze.pl)**
 * **Examples of diagrams and decision tables**
   * **[Decision table for purchasing a bus ticket](https://drive.google.com/file/d/1dwIg3jF0bLLdv5CsMNQheQiwpdyBMAtl/view?usp=sharing)**
-  * **[Tablice decyzyjne dla drogowej sygnalizacji świetlnej (Decision boards for traffic lights)](https://drive.google.com/file/d/1ZtI5UUItHjoTU_a4aBogwOoeB4pEzpzP/view?usp=sharing)**
+  * **[Decision tables for traffic lights](https://drive.google.com/file/d/1ZtI5UUItHjoTU_a4aBogwOoeB4pEzpzP/view?usp=sharing)**
   * **[Diagram i tablice stanów dla odmierzania czasu - stoper (Diagram and state tables for timing - stopwatch)](https://drive.google.com/file/d/1DIkv2MRJsEUUpelk-giAnzME0w4C-fST/view?usp=sharing)**
   * **[Diagram i tablica stanów zakupu biletu w biletomacie (Diagram and table of ticket purchase statuses in the ticket machine)](https://drive.google.com/file/d/1Q_YOt5ZswS1K0UaRlQh34pm8Fe0vd94w/view?usp=sharing)**
 * **Przykładowe programy napisane w języku Java (Examples programs written in Java)**
