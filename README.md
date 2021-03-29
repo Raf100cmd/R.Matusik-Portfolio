@@ -19,7 +19,7 @@ Now I am focused on software testing – it has become my point of interest and 
   * [Selenium IDE](https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd) - Open source record and playback test automation for the web
   * [Selenium WebDriver](https://www.selenium.dev/projects/) - Tool drives a browser natively, as a real user would, either locally or on remote machines
   * [Cucumber](https://cucumber.io/)
-* **Developers tools**
+* **Developer tools**
   * [Intellij IDEA](https://www.jetbrains.com/idea/) - Commercial integrated development environment
 * **Database tools**
   * [MySQL](https://www.mysql.com/) - Relational database management system
@@ -59,10 +59,10 @@ Now I am focused on software testing – it has become my point of interest and 
 * SCRUM
 * Creating diagrams and decision tables
 * DevTools
-* Finding uniqe CSS Selectors and xPaths
+* Finding unique CSS Selectors and xPaths
 
 ## Foreign Languages
-* **English** (speaken A2; written B1)
+* **English** (spoken A2; written B1)
  
 ## Recommended blogs and websites
 
@@ -79,7 +79,7 @@ Now I am focused on software testing – it has become my point of interest and 
 
 ## My exercises and examples
 * **Test cases and bug reports based on documentation _(Static Testing)_**
-  * **[MrBuggy 3 - app specyfication](https://github.com/Raf100cmd/Specyfikacja-aplikacji-MrBuggy-3)**
+  * **[MrBuggy 3 - app specification](https://github.com/Raf100cmd/Specyfikacja-aplikacji-MrBuggy-3)**
 * **Test cases and bug reports based on applications, websites, programs**
   * **[Taskade 3.0 - application](https://github.com/Raf100cmd/Aplikacja-Taskade-3.0)**
   * **[www.obliczakcyze.pl - website](https://github.com/Raf100cmd/obliczakcyze.pl)**
@@ -88,7 +88,7 @@ Now I am focused on software testing – it has become my point of interest and 
   * **[Decision tables for traffic lights](https://drive.google.com/file/d/1ZtI5UUItHjoTU_a4aBogwOoeB4pEzpzP/view?usp=sharing)**
   * **[Diagram and state tables for timing - stopwatch](https://drive.google.com/file/d/1DIkv2MRJsEUUpelk-giAnzME0w4C-fST/view?usp=sharing)**
   * **[Diagram and table for purchasing a bus ticket in a ticket machine](https://drive.google.com/file/d/1Q_YOt5ZswS1K0UaRlQh34pm8Fe0vd94w/view?usp=sharing)**
-* **Examples programs written in Java**
+* **Examples of programs written in Java**
   * **[Programs](https://github.com/Raf100cmd/Programy)**
   * **[Programs and unit testing](https://github.com/Raf100cmd/Programy_i_testy_jednostkowe)**
 * **Examples of automated testing of web applications**
