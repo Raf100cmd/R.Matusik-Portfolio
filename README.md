@@ -103,7 +103,7 @@ Now I am focused on software testing – it has become my point of interest and 
   * **[Tasks with the use of the Database 'Państwa'](https://github.com/Raf100cmd/SQL_Baza_Danych_Pa-stwa)**
 * **Examples of using the Postman - Testing tool for REST API**
   * **GET methods and tests written to them**
-    * [Return a specific post]()
+    * [Return a specific post](https://github.com/Raf100cmd/KursGit/tree/master/Rest%20Api%20-%20postman/Metoda%20Get%20-%20zwr%C3%B3cenie%20okre%C5%9Blonego%20posta)
     * [Return all posts]()
   * **Post method and tests to it**
     * [Adding a new post]()
