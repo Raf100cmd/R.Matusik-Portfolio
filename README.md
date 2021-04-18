@@ -101,6 +101,7 @@ Now I am focused on software testing – it has become my point of interest and 
   * **[Tasks with the use of the Database 'Osoby'](https://github.com/Raf100cmd/SQL_Baza_Danych_Osoby)**
   * **[Tasks with the use of the Database 'Osoby 5000'](https://github.com/Raf100cmd/SQL_Baza_Danych_Osoby)**
   * **[Tasks with the use of the Database 'Państwa'](https://github.com/Raf100cmd/SQL_Baza_Danych_Pa-stwa)**
+* **Examples of using the Postman - Testing tool for REST API**
 
 
 
