@@ -105,11 +105,11 @@ Now I am focused on software testing – it has become my point of interest and 
   * **GET methods and tests written to them**
     * [Return a specific post](https://github.com/Raf100cmd/KursGit/tree/master/Rest%20Api%20-%20postman/Metoda%20Get%20-%20zwr%C3%B3cenie%20okre%C5%9Blonego%20posta)
     * [Return all posts](https://github.com/Raf100cmd/KursGit/tree/master/Rest%20Api%20-%20postman/Metoda%20Get%20-%20zwr%C3%B3%C4%87%20wszystkie%20posty)
-  * **Post method and tests to it**
+  * **POST method and tests to it**
     * [Adding a new post](https://github.com/Raf100cmd/KursGit/tree/master/Rest%20Api%20-%20postman/Metoda%20Post%20-%20dodanie%20postu)
-  * **Put method and tests to it**
+  * **PUT method and tests to it**
     * [The post update - put method](https://github.com/Raf100cmd/KursGit/tree/master/Rest%20Api%20-%20postman/Metoda%20Put%20-%20aktualizacja%20posta)
-  * **Patch method and tests to it**
+  * **PATCH method and tests to it**
     * [The Patch update - put method](https://github.com/Raf100cmd/KursGit/tree/master/Rest%20Api%20-%20postman/Metoda%20Patch%20-%20aktualizacja%20posta)
 
 
