@@ -89,7 +89,7 @@ Now I am focused on software testing – it has become my point of interest and 
   * **[Decision table for purchasing a bus ticket](https://drive.google.com/file/d/1dwIg3jF0bLLdv5CsMNQheQiwpdyBMAtl/view?usp=sharing)**
   * **[Decision tables for traffic lights](https://drive.google.com/file/d/1ZtI5UUItHjoTU_a4aBogwOoeB4pEzpzP/view?usp=sharing)**
   * **[Diagram and state tables for timing - stopwatch](https://drive.google.com/file/d/1DIkv2MRJsEUUpelk-giAnzME0w4C-fST/view?usp=sharing)**
-  * **[Diagram and table for purchasing a bus ticket in a ticket machine](https://drive.google.com/file/d/1Q_YOt5ZswS1K0UaRlQh34pm8Fe0vd94w/view?usp=sharing)**
+  * **[Diagram and state table for purchasing a bus ticket in a ticket machine](https://drive.google.com/file/d/1Q_YOt5ZswS1K0UaRlQh34pm8Fe0vd94w/view?usp=sharing)**
 * **Examples of programs written in Java**
   * **[Programs](https://github.com/Raf100cmd/Programy)**
   * **[Programs and unit testing](https://github.com/Raf100cmd/Programy_i_testy_jednostkowe)**
