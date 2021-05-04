@@ -15,6 +15,7 @@ Now I am focused on software testing – it has become my point of interest and 
   * GitHub
 * **Testing tools**
   * [TestRail](https://www.gurock.com/testrail/) - Test management tool
+  * [qTest](https://www.tricentis.com/products/agile-dev-testing-qtest/) - Test management tool
   * [Postman](https://www.postman.com/product/rest-client/) - Testing tool for REST API
   * [Selenium IDE](https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd) - Open source record and playback test automation for the web
   * [Selenium WebDriver](https://www.selenium.dev/projects/) - Tool drives a browser natively, as a real user would, either locally or on remote machines
