@@ -33,6 +33,7 @@ Now I am focused on software testing – it has become my point of interest and 
   * RapidReporter
   * Snipping Tool
   * Movavi Screen Recorder 21
+  * Free Screen Video Recorder
 
 ## Certificates
 
