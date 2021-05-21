@@ -81,6 +81,10 @@ Now I am focused on software testing – it has become my point of interest and 
 * Podstawy HTTP
 * CyberSecurity
 
+## Commercial projects and tasks
+
+* **Cleeng - Testing the registration and login modules**
+
 ## My exercises and examples
 * **Test cases and bug reports based on documentation _(Static Testing)_**
   * **[MrBuggy 3 - app specification](https://github.com/Raf100cmd/Specyfikacja-aplikacji-MrBuggy-3)**
