@@ -84,7 +84,7 @@ Now I am focused on software testing – it has become my point of interest and 
 ## Commercial projects and tasks
 
 * **Cleeng - Testing the registration and login modules**
-* **Smart4Aviation - Testing the application form**
+* **Smart4Aviation - [Testing the application form](https://github.com/Raf100cmd/Smart4Aviation/blob/main/README.md)**
 
 ## My exercises and examples
 * **Test cases and bug reports based on documentation _(Static Testing)_**
