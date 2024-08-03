@@ -3,11 +3,12 @@
 
 ## About me
 
-My name is Rafał Matusik. I am a software tester candidate with ISTQB certificate, solid technical education and relevant industrial experience. Recently I have directed my attention to modern technologies seeing them as a perfect way of self-development.
+My name is Rafał Matusik. I’m a software tester with over three years of experience. I specialise in testing websites. In my current position I`m responsible for creating tests suites and tests cases. Moreover checking application and reporting bugs to development teams. I prepare test planes for applications releases. Apart from testing applications based on test cases, I check applications in exploratory tests as user websites. I have spent the last 3 years developing my skills as a tester in a big company where I studied in practice SQL, Postmam, Soap-UI. I’ve been testing applications connected with public health care. In my job I’m responsible for preparing basic data necessary for testing functions of the application, for example medical facilities, new patiens, new medical workers..
+I obtained an ISTQB certificate – foundation level.
 
-In 2013, I graduated from the AGH University of Science and Technology in Cracow, Poland (M.Sc. in Mining and Geology, specializing in Geoengineering). I completed my education with courses (e.g. Occupational Safety & Health and adult training). Immediately after graduation, I started working in the mining industry. I have gained the necessary qualifications and experience in four different mining plants (as the policy of the company I work for is to carry out preparatory works).
+Before that I worked as a shift miner where I managed a team of 20 workers. We dug tunnels over 1 km underground. I was responsible for the whole work process, from the transport of materials to the destination. This job learned me patience, team work, looking for non-standard solutions.
 
-Now I am focused on software testing – it has become my point of interest and hobby. I completed the course - Software Tester at the Software Development Academy (December 2020) and obtained the title Certified Tester Foundation Level signed by ISTQB (February 2021). I am accurate, meticulous and at the same time open to new challenges as well as constantly expanding my knowledge. My goal is to improve my technical skills and to develop in the field of software testing. On this page, I would like to present the experience I have gained through my personal studies and research so far.
+
 
 ## Tools
 * **Project management tools**
